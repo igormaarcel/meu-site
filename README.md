@@ -1,3 +1,3 @@
 # meu-site
 Aqui esta um site com algumas informações sobre mim
-https://bejewelled-kheer-228850.netlify.app/
+https://igormaarcel.github.io/meu-site/index.html
